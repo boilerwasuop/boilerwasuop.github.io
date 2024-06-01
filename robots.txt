@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boilerwasuop.github.io/sitemap.xml
